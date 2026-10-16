@@ -1,0 +1,13 @@
+# Python 快取
+__pycache__/
+*.pyc
+
+# 虛擬環境
+.venv/
+venv/
+
+# macOS 系統檔案
+.DS_Store
+
+# 訓練過程的 Checkpoints
+checkpoint-*/
